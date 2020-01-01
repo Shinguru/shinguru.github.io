@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.themotion.net</id>
     <title>Motion</title>
-    <updated>2020-01-01T16:08:24.056Z</updated>
+    <updated>2020-01-01T16:20:38.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.themotion.net"/>
     <link rel="self" href="https://blog.themotion.net/atom.xml"/>
@@ -12,14 +12,14 @@
     <rights>All rights reserved 2020, Motion</rights>
     <entry>
         <title type="html"><![CDATA[阅读带来的成长与变化被低估]]></title>
-        <id>https://blog.themotion.net/post/The growth and change brought by reading are underestimated</id>
-        <link href="https://blog.themotion.net/post/The growth and change brought by reading are underestimated">
+        <id>https://blog.themotion.net/post/The-growth-and-change-brought-by-reading-are-underestimated</id>
+        <link href="https://blog.themotion.net/post/The-growth-and-change-brought-by-reading-are-underestimated">
         </link>
         <updated>2020-01-01T14:24:46.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>我这辈子遇到都各行各业都聪明人，没有一个不是每天阅读都，没有，一个都没有。 —查理·芒格</p>
 </blockquote>
-<p>都知道阅读能给人带来成长和变化，但是又有几人相信阅读带来都力量呢？<br>
+<p><font face="微软雅黑" size=5> 都知道阅读能给人带来成长和变化，但是又有几人相信阅读带来都力量呢？<br>
 阅读无非有这几种目的：</p>
 <ul>
 <li>打发时间</li>
@@ -27,9 +27,8 @@
 <li>提升认知</li>
 <li>装逼</li>
 </ul>
-<p>这两年我阅读的书籍大部分是投资、哲学以及一些通识学科。起初是试着读读看的心态，看看能否带来一些显而易见的变化，急功近利的性子。这些书籍明显烧脑子，阅读的过程中一遍遍的冲击自己的固有观念和刷新认知，让我不断的思考新的问题，有意思的是这样都让我平均一年读了差不多50本书左右。</p>
-<p>带来变化显而易见，看问题更加全方位，以前想不通的问题想通了，不敢怀疑的问题批判的毫不留情，不敢面对的事情也敢于下决心了。</p>
-<p>有时在想如果我能早点读到那些书就好了。</p>
+<p>这两年我阅读的书籍大部分是投资、哲学以及一些通识学科。起初是试着读读看的心态，看看能否带来一些显而易见的变化，急功近利的性子。这些书籍明显烧脑子，阅读的过程中一遍遍的冲击自己的固有观念和刷新认知，让我不断的思考新的问题，有意思的是这样都让我平均一年读了差不多50本书左右。<br>
+带来变化显而易见，看问题更加全方位，以前想不通的问题想通了，不敢怀疑的问题批判的毫不留情，不敢面对的事情也敢于下决心了。有时在想如果我能早点读到那些书就好了。 </font></p>
 ]]></content>
     </entry>
     <entry>
